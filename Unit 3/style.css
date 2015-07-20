@@ -1,0 +1,45 @@
+html { 
+  background: url(hurricanehole.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+text-align: justify;
+
+}
+
+#headline { display: block;
+	background-color: #E80C58;
+
+}
+
+h1 {
+	font-family: verdana, sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	font-color: #FF3E0D;
+}
+
+h3 { 
+font-style: italic;
+font-family: Arial, sans-serif;
+font-size: 48px;
+}
+
+p {
+	color: black;
+	background-color: #E80C58
+}
+
+p { 
+	font-family: helvetica;
+font-size: 24px;
+background-color: #E80C58
+
+}
+
+a { font-style: italic;
+}
